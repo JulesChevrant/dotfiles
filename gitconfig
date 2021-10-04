@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jules.chevrant@hotmail.fr
+	name = jules chevrant breton
